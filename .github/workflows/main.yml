@@ -9,9 +9,9 @@ env:
   
   APP_NAME: "com.game.UnderwaterFishLine"
   
-  AndroidKeystorePass: "bLr=Sd9f&25nEK4"
-  AndroidKeyaliasPass: "bLr=Sd9f&25nEK4"
-  AndroidKeyaliasName: "sudoku"
+  AndroidKeystorePass: "ALKmnvc%^&"
+  AndroidKeyaliasPass: "ALKmnvc%^&"
+  AndroidKeyaliasName: "key"
   
   ChatID_APK: "-1001730907007"
   ChatID_AAB: "-1001730907007"

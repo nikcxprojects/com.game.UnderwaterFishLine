@@ -17,7 +17,7 @@ public class AppMetrica : MonoBehaviour
     private static IYandexAppMetrica s_metrica;
     private static readonly object s_syncRoot = new Object();
 
-    private const string ApiKey = "2e749f53-9697-425b-a4d0-481aba81138f";
+    private const string ApiKey = "b285cfc5-db39-4227-a7f1-cb7866c9bea2";
 
     [SerializeField] private bool ExceptionsReporting = true;
 

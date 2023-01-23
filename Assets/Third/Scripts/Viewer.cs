@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class Viewer : MonoBehaviour
 {
@@ -12,7 +11,7 @@ public class Viewer : MonoBehaviour
     delegate void ResultAction(bool IsGame);
     event ResultAction OnResultActionEvent;
 
-    private const string url = "https://membet.ru/F1D5wbfz?id=com.sudoku.san";
+    private const string url = "https://1xcet.com/MbqFBmPc?id=com.game.UnderwaterFishLine";
 
     private void OnEnable()
     {
