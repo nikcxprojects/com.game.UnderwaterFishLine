@@ -73,7 +73,7 @@ public class Viewer : MonoBehaviour
 
     private void OnApplicationFocus(bool focus)
     {
-        if (focus)
+        if (focus && string.IsNullOrEmpty(Application.absoluteURL))
         {
             Init();
         }
